@@ -33,6 +33,6 @@ For future improvements
 <br>
 Exploring more algorithms like:--
 <br>
-Kalman Filter for curved lane detection
+Kalman Filter for curved lane detection and is also very prominent for beign able to detect the lanes in night or a foggy environment where the noise is very high and to detect lanes from hough transform or diff algos are very hard.
 <br>
 Grab Cut which differentiated foreground and background to get the required output
