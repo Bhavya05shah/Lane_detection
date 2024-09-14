@@ -27,3 +27,12 @@ To sort the points into left and right lane i just used the basic concept of slo
 3rd/Optional Task
 <br>
 Created a lane mask of the same size as the og/gray image and made White area for lanes, black for background and then applied the mask on the original image to finaly subtract the background
+<br>
+<br>
+For future improvements
+<br>
+Exploring more algorithms like:--
+<br>
+Kalman Filter for curved lane detection
+<br>
+Grab Cut which differentiated foreground and background to get the required output
