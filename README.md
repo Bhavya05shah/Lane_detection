@@ -36,3 +36,5 @@ Exploring more algorithms like:--
 Kalman Filter for curved lane detection and is also very prominent for beign able to detect the lanes in night or a foggy environment where the noise is very high and to detect lanes from hough transform or diff algos are very hard.
 <br>
 Grab Cut which differentiated foreground and background to get the required output
+<br>
+this algorithm relies heavily on color distribution and gradients to separate foreground from the background , so for environments with lanes being shadowed due to a roadside tress or the road is on a mountain hill creating heavy lightness chnages on the color information of the road could lead to bad results
